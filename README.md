@@ -7,4 +7,5 @@ Reddit Trend Analysis. Title subject to change.
     - [Documentation](https://www.reddit.com/dev/api/)
 * Subreddits 
     - [AI Subreddits](https://www.reddit.com/r/artificial/wiki/related-subreddits/)
-
+* Dev Access
+    - [Quickstart](https://developers.reddit.com/docs/quickstart)
